@@ -1,3 +1,8 @@
+APP: 
+
+https://cfd-2d-nozzle.streamlit.app/
+
+
 # APP TOBERA CFD
 
 Aplicacion Streamlit para resolver flujo compresible 2D en tobera convergente-divergente con Euler + MacCormack.
